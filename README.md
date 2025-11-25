@@ -4,39 +4,43 @@ I’m a passionate Web3 Developer & Blockchain Engineer with a love for building
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louyigreat&show_icons=true&theme=radical" alt="louyigreat's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=louyigreat&theme=radical&hide_border=true" width="400"/>
-</p>
-
 </div>
 
 ---
 
-## 🚀 **About Me**
+🚀 About Me
 
-I’m all about **innovation**, **creativity**, and **learning by doing**:
+I’m all about blockchain innovation, decentralized creativity, and building by experimenting:
 
-- 🎮 **Game Developer** specializing in **Unreal Engine** and **C++**  
-- 💻 **Full-stack Web Developer** making web magic happen with **Vue.js**  
-- 🎥 Content Creator on **[YouTube](https://www.youtube.com/@Pin-Studios)** (Check out my tutorials and dev talks!)  
-- 🎨 **3D Asset Creator** on **[Fab](https://www.fab.com/sellers/Pin%20Studios)** (Get your next asset here!)  
-- 💪 **Community Supporter** on **[Patreon](https://www.patreon.com/PinNumber)** (Help me grow and get cool perks!)
+🔗 Web3 Developer specializing in Solidity and smart contract engineering
+
+🌐 dApp Frontend Developer creating clean, reactive interfaces with Vue.js + Ethers.js
+
+🧠 Blockchain Educator & Content Creator, sharing insights, tutorials, and dev breakdowns
+
+🛠️ Smart Contract Architect
+
+💪 Crypto Community Supporter, contributing to open-source tools and Web3 discussions
 
 ---
 
-## 🛠️ **Tech Stack**
+🛠️ Tech Stack
 
-I build cool stuff using these tools:
+I build powerful Web3 and blockchain applications using these tools:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,vue,unreal,php,laravel,mysql,docker,nginx)](https://skillicons.dev)
+Solidity for secure, gas-optimized smart contracts
 
-- **C++** for immersive game development  
-- **Blueprint Visual Scripting** for quick prototyping in Unreal Engine  
-- **Vue.js 3** for modern web applications with reactive, state-driven design  
-- **PHP & Laravel** for creating robust backend APIs  
-- **MySQL** for all things data  
-- **Docker & Nginx** for seamless deployment and containerization
+Hardhat & Foundry for testing, debugging, and automating contract deployments
+
+Vue.js 3 for responsive, state-driven dApp front-ends
+
+JavaScript & TypeScript for Web3 integrations and wallet interactions
+
+PHP & Laravel for indexing, backend APIs, and Web3 service layers
+
+MySQL for tracking blockchain metadata and analytics
+
+Docker & Nginx for scalable dApp, node, and RPC deployments
 
 ---
 
