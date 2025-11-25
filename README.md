@@ -41,6 +41,7 @@ I build powerful Web3 and blockchain applications using these tools:
 🗄️ MySQL for tracking blockchain metadata and analytics
 
 📦 Docker & Nginx for scalable dApp, node, and RPC deployments
+
 ---
 
 
