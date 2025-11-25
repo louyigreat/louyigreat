@@ -45,11 +45,6 @@ I build powerful Web3 and blockchain applications using these tools:
 ---
 
 
-
-</details>
-
----
-
 ## 🎮 **Web3 & Smart Contract Development**
 
 I love building decentralized, blockchain-powered experiences. Here’s what I’m working with:
