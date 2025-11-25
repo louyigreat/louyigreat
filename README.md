@@ -28,28 +28,22 @@ I’m all about blockchain innovation, decentralized creativity, and building by
 
 I build powerful Web3 and blockchain applications using these tools:
 
-Solidity for secure, gas-optimized smart contracts
+🔐 Solidity for secure, gas-optimized smart contracts
 
-Hardhat & Foundry for testing, debugging, and automating contract deployments
+🧪 Hardhat & Foundry for testing, debugging, and automated deployments
 
-Vue.js 3 for responsive, state-driven dApp front-ends
+⚡ Vue.js 3 for fast, reactive dApp interfaces
 
-JavaScript & TypeScript for Web3 integrations and wallet interactions
+🧩 JavaScript & TypeScript for wallet connections and on-chain logic
 
-PHP & Laravel for indexing, backend APIs, and Web3 service layers
+🛠️ PHP & Laravel for indexing, backend APIs, and Web3 services
 
-MySQL for tracking blockchain metadata and analytics
+🗄️ MySQL for tracking blockchain metadata and analytics
 
-Docker & Nginx for scalable dApp, node, and RPC deployments
-
+📦 Docker & Nginx for scalable dApp, node, and RPC deployments
 ---
 
 
-  <p align="center">
-    <a href="https://github.com/louyigreat?tab=repositories&sort=stargazers">
-      <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=white&logo=repo"/>
-    </a>
-  </p>
 
 </details>
 
